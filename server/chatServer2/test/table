@@ -1,0 +1,12 @@
+userinfo
+{
+  uid
+  name
+  pwd
+  email
+  nick
+  desc
+  sex
+  icon
+}
+

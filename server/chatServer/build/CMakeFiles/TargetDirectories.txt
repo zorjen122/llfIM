@@ -1,0 +1,3 @@
+/home/zorjen/sourceproj/llfcchat/server/chatServer/build/CMakeFiles/rebuild_cache.dir
+/home/zorjen/sourceproj/llfcchat/server/chatServer/build/CMakeFiles/edit_cache.dir
+/home/zorjen/sourceproj/llfcchat/server/chatServer/build/CMakeFiles/ChatServer.dir
